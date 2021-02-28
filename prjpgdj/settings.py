@@ -25,7 +25,7 @@ SECRET_KEY = 'q8+q4=lj!29(*x%4)kpr&ev&^xny8zq3!3c8bj%%qkp1cuyh)b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [fiit-dbs-xcvopa-webapp.azurewebsites.net,fiit-dbs-xcvopa-app.azurewebsites.net]
 
 
 # Application definition
